@@ -1,1 +1,6 @@
 # qrcode_detection
+
+This repository contains qr_detect_and_decode.py file and test_images folder contains test images...
+This program uses pyzbar and opencv libraries
+
+Thank you...
